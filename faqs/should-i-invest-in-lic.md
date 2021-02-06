@@ -1,22 +1,20 @@
-# Should I invest in this LIC policy? 
-
-My parents really want me to do this, and agent uncle is saying I'd be making quite a lot of returns, all tax free, backed by Govt.
+# Should I invest in this LIC policy? Parents / LIC agents are pushing me
 
 LIC doesn't create money out of thin air. Over-simplified & shortened description of how it works: It collects premium from policyholders, then it invests that in market-linked securities (bonds, stocks, CP, CD, commodities etc.). Eventually, it pays out policyholders after keeping some cut for itself.
 
-Unlike bank or post-office deposits, LIC returns are not legally guaranteed. Govt. of India is a major stakeholder in LIC, but that does not mean it's a major stakeholder in your future. Govt. would do its best to prevent LIC from going under. But your returns come at the cost of LIC's income - when those two are at odds with each other, Govt. would pick LIC over you.
+Unlike bank or post-office deposits, LIC returns are not legally guaranteed. Govt. of India is a major stakeholder in LIC, but that does not mean it's a major stakeholder in your future. Govt. would do its best to prevent LIC from going under. But your returns come at the cost of LIC's income - when those two are at odds with each other, Govt. would pick LIC over your financial future.
 
-In practice, LIC returns money you'd paid as premium + some bonus. They have different categories of these bonuses: loyalty bonus, guaranteed addition. LIC wants to make you feel they're doing you a favor by giving you some bonus. Historically, a bank FD at SBI would have had higher returns than LIC policy over same period.
+In practice, LIC returns money you'd paid as premium + some bonus. There are different categories of these bonuses: _loyalty bonus_, _guaranteed addition_ etc. LIC wants to make you feel they're doing you a favor by giving you some bonus. Historically, a bank FD / RD at SBI would have had higher returns than LIC policy over a given period.
 
-You can know only know your bonus after the policy matures.
+You can know your bonus only after the policy matures.
 
-LIC is also not allowed to invest freely. They are the largest financial services company in the country, and therefore has much more cash than any other financial institution, that they can invest. However, large corpus of few lakh crores are not easy to invest. So they have to look for distressed assets, or wait for really bad market condition before deploying some of that cash.
+LIC is also not allowed to invest freely. They are the largest financial services company in the country, and therefore have much more cash than any other financial institution, that they can invest. However, large corpus of few lakh crores are not easy to invest. So they have to look for distressed assets, or wait for really bad market condition before deploying sizeable chunk of that cash.
 
-There's also political interference to consider - as evident from LIC's bailout of IDBI bank. LIC's hands are tied in where they can and cannot invest.
+There's also political interference to consider - as evident from LIC's bailout of IDBI bank. LIC's hands are tied, in when it comes to where they can / cannot invest.
 
 Over long enough period of time, LIC returns have also significantly underperformed equity market returns, namely Nifty & Sensex Total Return Index.
 
-Now, consider various charges on insurance (mortality charges, admin fees, risk premium etc.). These are not shown to you, the end policyholders; but these eat away your corpus and line up LIC's pocket.
+Now, consider various charges on insurance (mortality charges, admin fees, risk premium etc.). These are not shown to you (the end policyholders); but these eat away your corpus and line up LIC's pockets.
 
 Your agent would tell you to invest in LIC policy, because that helps him earn commission. Your parents would pressure you into doing it, because most likely they'd not be aware of other investment options.
 
@@ -32,6 +30,6 @@ These premiums cannot be changed once you start paying for a policy. You have no
 
 Overall, an LIC policy is rigid, wasteful, and doesn't provide adequate coverage. Tax benefits are not good enough to offset the opportunity cost (i.e. you're missing out on other efficient assets and time).
 
-**Avoid LIC policies, buy vanilla pure term cover, and invest in efficient market-linked transparent assets yourself. If your question is but what if markets don't do well?, then the LIC policy also has same fate.**
+**Avoid LIC policies, buy vanilla pure term cover, and invest in efficient market-linked transparent assets yourself. If your question is _but what if markets don't do well in next 15-20 years?_, then the LIC policy also has same fate.**
 
 ###### tags: `FAQs`
